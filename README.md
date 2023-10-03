@@ -1,17 +1,25 @@
 COVID vs. Healthy Classification Project
+
 Overview
+
 This project aims to develop a machine learning model to classify COVID-19 cases from healthy cases based on a dataset of medical images. The project utilizes Python 3.6, TensorFlow 2.0.0, and Jupyter Notebook for model development and visualization.
 
 Dataset
+
 The dataset used for this project consists of medical images containing X-ray and CT scan images of patients. It includes two classes: "COVID-19" and "Healthy." The dataset was obtained from [source link] and is intended for research purposes.
 
 Prerequisites
+
 Before running the code in this project, you'll need to have the following dependencies installed:
 
 Python 3.6
+
 TensorFlow 2.0.0
+
 Jupyter Notebook
+
 You can install TensorFlow using pip:
+
 pip install tensorflow==2.0.0
 
 Getting Started
